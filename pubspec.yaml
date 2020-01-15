@@ -15,7 +15,6 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.0
-  flutter_advanced_networkimage: ^0.6.2
   flare_flutter: ^1.8.3
 
 dev_dependencies:
