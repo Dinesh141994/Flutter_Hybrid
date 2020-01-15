@@ -1,4 +1,4 @@
-# Desktop Flutter Example
+# Flutter Desktop / Web / Android and IOS Example
 
 This is the standard Flutter template application, modified to run on desktop.
 
